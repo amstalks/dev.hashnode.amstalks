@@ -1,2 +1,2 @@
 # dev.hashnode.amstalks
-Hashnode Automated Backups
+Licensed by me under the [Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International](/LICENSE).
